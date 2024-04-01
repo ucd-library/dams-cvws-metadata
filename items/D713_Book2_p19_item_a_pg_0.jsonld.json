@@ -1,0 +1,65 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1424061"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175993"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D713_Book2_p19_item_a_pg_0.pdf"
+  },
+  "schema:creator": "California Vintage Wine Society",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1981-05-30"
+  },
+  "schema:description": "[Return to Volume 2](/item/ark:/87293/d3k35mj5p)",
+  "schema:identifier": [
+    "D-713",
+    "ark:/87293/d31c1tk8b"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/D713_Book2_p19_item_a_pg_0-066.jpg"
+  },
+  "schema:keywords": "Menu, Wine Tasting",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Tasting of Selected Wines from Alexander Valley and Lunch",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2022"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

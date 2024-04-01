@@ -1,0 +1,49 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1424061"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/media/book1_8.pdf"
+  },
+  "schema:creator": "California Vintage Wine Society",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1969-02-25"
+  },
+  "schema:description": "[Return to Volume 1](/item/ark:/87293/d3pv6bb81)",
+  "schema:identifier": [
+    "D-713",
+    "ark:/87293/d3dz0359n"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/D713_Book1_p29_pg0.jpg"
+  },
+  "schema:keywords": "Menu",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Dinner and Tasting Menu at Bohemian Club",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}

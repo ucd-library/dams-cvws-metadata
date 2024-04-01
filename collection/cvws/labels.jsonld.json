@@ -1,0 +1,60 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1015884",
+    "http://schema.org/name": "Memorandums"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175907",
+    "http://schema.org/name": "Wine and wine making"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175983",
+    "http://schema.org/name": "Wine labels"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175993",
+    "http://schema.org/name": "Wine tasting"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423689",
+    "http://schema.org/name": "Photographs"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423704",
+    "http://schema.org/name": "Maps"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423762",
+    "http://schema.org/name": "By-laws"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1424061",
+    "http://schema.org/name": "Menus"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1747952",
+    "http://schema.org/name": "Private clubs"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1750243",
+    "http://schema.org/name": "Brochures"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1919940",
+    "http://schema.org/name": "Minutes (Records)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1919964",
+    "http://schema.org/name": "Registers (Lists)"
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Book",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1747952"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1424061"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175993"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/book3.pdf"
+  },
+  "schema:creator": "California Vintage Wine Society",
+  "schema:datePublished": "1988-1992",
+  "schema:description": "To view and print multipage inserts, follow these links: \n\n[Board of Directors Meeting Minutes, February 1, 1988](/item/ark:/87293/d38k7517b) \n\n[Menu for Lunch at Hess Collection Winery](/item/ark:/87293/d3mw28k0p) \n\n[Menu for Annual Cellar Masters Tasting and Dinner at the Bohemian Club ](/item/ark:/87293/d36m3378w) \n\n[Guidelines for Event Chairmen](/item/ark:/87293/d32z12t72) \n\n[Wine Inventory as of 03/04/1991](/item/ark:/87293/d3z60c63w) \n\n[Menu for Napa Valley Harvest Lunch at Wm Hewitt Residence](/item/ark:/87293/d34q7qv2f) \n\n[Menu for Harvest Lunch at William Hewitt Residence](/item/ark:/87293/d33r0pz37) \n\n[Menu for Lunch at Alexander Valley Vineyards - Wetzel Family Estate](/item/ark:/87293/d3000047m) \n\n[Menu for Lunch at Stony Hill Vineyard](/item/ark:/87293/d3v698h16) \n\n[Board of Directors Meeting Minutes, October 10, 1989](/item/ark:/87293/d31r6n49m) \n\n[Board of Directors Meeting Minutes, November 20, 1989](/item/ark:/87293/d3x05xh51) \n\n[Board of Directors Meeting Minutes,  March 3, 1990](/item/ark:/87293/d3nk3692t) \n\n[Board of Directors Meeting Minutes, May 15, 1990](/item/ark:/87293/d3ht2gg82) \n\n[Board of Directors Meeting Minutes, September 12, 1990](/item/ark:/87293/d3d21rp47) \n\n[Board of Directors Meeting Minutes, October 10, 1990](/item/ark:/87293/d38911v9c) \n\n[Board of Directors Meeting Minutes, April 11, 1991](/item/D713_Book3_p72_INSERT_25) \n\n[Board of Directors Meeting Minutes, April 11, 1991](/item/ark:/87293/d3w37m08h) \n\n[Board of Directors Meeting Minutes, June 11, 1991](/item/ark:/87293/d3rb6w65v) \n\n[Board of Directors Meeting Minutes, September 24, 1991](/item/ark:/87293/d3mk65d13) \n\n[Board of Directors Meeting Minutes, March 6, 1991](/item/ark:/87293/d37940z75) \n\n[Board of Directors Meeting Minutes, March 17, 1992](/item/ark:/87293/d3zw18x2v) \n\n[Board of Directors Meeting Minutes, April 23, 1992](/item/ark:/87293/d3kk94h1v)",
+  "schema:identifier": [
+    "D-713",
+    "ark:/87293/d3th8bs0j"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/D713_Book3_front_cover-001.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": " California Vintage Wine Society Scrapbooks, Volume 3",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2022"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}
