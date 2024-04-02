@@ -26,7 +26,7 @@
   "schema:description": "The northern California chapter of the California Vintage Wine Society was founded in 1963 with the mission to promote the appreciation of fine California wine through education, events, and procurement of its own wine cellar. From the beginning, notable UC Davis figures, like Maynard Amerine, were among the membership of like-minded wine lovers. This collection of digital surrogates consists of three scrapbooks produced by various society presidents between 1963 and 1995. They include programs, menus, photographs, records, and other materials related to the society's history. Currently the physical scrapbooks remain in the California Vintage Wine Society's care, but will be transferred to UC Davis's Archives and Special Collections in the near future.",
   "schema:identifier": "D-713",
   "schema:image": {
-    "@id": "info:fedora/items/CVWS_Logo_large-1.jpg"
+    "@id": "info:fedora/collection/D-713/CVWS_Logo_large-1.jpg"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
