@@ -1,4 +1,4 @@
-e{
+{
   "@context": {
     "ldp": "http://www.w3.org/ns/ldp#",
     "schema": "http://schema.org/",
