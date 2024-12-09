@@ -1,4 +1,4 @@
-{
+e{
   "@context": {
     "ldp": "http://www.w3.org/ns/ldp#",
     "schema": "http://schema.org/",
@@ -28,9 +28,6 @@
     "D-713",
     "ark:/87293/d3j09wb40"
   ],
-  "schema:image": {
-    "@id": "info:fedora/collection/D-713/CVWS_Logo_large-1.jpg"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
